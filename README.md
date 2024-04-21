@@ -12,6 +12,8 @@ To use this application, you need to have the following dependencies installed:
 - streamlit
 - pandas
 
+OR you can just visit [info app page](https://image-info-app.streamlit.app)
+
 ## Notes
 
 - If an error occurs while processing an image, an error message will be displayed.
